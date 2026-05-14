@@ -1,0 +1,9 @@
+opencv-python
+numpy
+scikit-learn
+joblib
+tqdm
+streamlit
+pydeck
+streamlit-js-eval
+Pillow
